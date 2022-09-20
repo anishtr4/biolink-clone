@@ -1,5 +1,7 @@
 This bio.link clone project made solely for demoing purpose and powered by [Next.js](https://nextjs.org/). Find out more [here](https://medium.vladmykol.com/production-ready-react-app-setup-with-next-js-and-dokku-555fb08cb188).
 
+![Screenshot](public/screenshot.jpg)
+
 # Getting Started
 
 To run a local development server use
