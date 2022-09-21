@@ -30,7 +30,7 @@ const Home: NextPage = () => {
                         <div className="mt-48">
                             <div className="page-item-wrap relative">
                                 <div className="page-item flex-both-center absolute"/>
-                                <a target="_blank" rel="noreferrer noopener nofollow"
+                                <a target="_blank" rel="noopener"
                                    className="page-item-each py-10 flex-both-center"
                                    href="https://www.linkedin.com/in/vladmykol/" data-id="625752" datatype="page_item">
                                     <picture className="link-each-image left-9">
@@ -43,7 +43,7 @@ const Home: NextPage = () => {
                             </div>
                             <div className="page-item-wrap relative">
                                 <div className="page-item flex-both-center absolute"/>
-                                <a target="_blank" rel="noreferrer noopener nofollow"
+                                <a target="_blank" rel="noopener"
                                    className="page-item-each py-10 flex-both-center"
                                    href="https://medium.com/@vladmykol" data-id="625754" datatype="page_item">
                                     <picture className="link-each-image left-9">
@@ -56,7 +56,7 @@ const Home: NextPage = () => {
                             </div>
                             <div className="page-item-wrap relative">
                                 <div className="page-item flex-both-center absolute"/>
-                                <a target="_blank" rel="noreferrer noopener nofollow"
+                                <a target="_blank" rel="noopener"
                                    className="page-item-each py-10 flex-both-center"
                                    href="https://github.com/vladmykol/mando-chatbot" data-id="625770"
                                    datatype="page_item">
